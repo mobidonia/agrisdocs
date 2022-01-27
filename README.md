@@ -1,10 +1,7 @@
 ---
-description: How to get started with POS Cloud?
+description: How to get started with AGRSI Cloud?
 ---
 
 # Introduction
 
-Welcome to Lion POS's Documentation. 
-
-![](.gitbook/assets/poslion-cover_full.jpg)
-
+Welcome to AGRIS's Documentation.
