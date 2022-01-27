@@ -10,10 +10,10 @@
 
 ## Define Basics
 
+* [API Setup](define-basics/api-setup.md)
 * [Mail server](define-basics/obtain-smtp.md)
 * [Localization and Time format](define-basics/localization.md)
 * [Pricing Plans](define-basics/payments.md)
-* [API Setup](define-basics/api-setup.md)
 
 ## Usage
 
