@@ -15,3 +15,15 @@ Map box ( [https://www.mapbox.com/](https://www.mapbox.com) ) is used for the ma
 The weather info is obtaineed from [https://agromonitoring.com/](https://agromonitoring.com)
 
 That is why you  need to create an account there, and obtain an API KEY.&#x20;
+
+
+
+### 4 - Google Maps
+
+Google maps is used for generating the static icon from the map that appers on the field and also in the position on the company.
+
+Here is how to set it
+
+{% embed url="https://mobidonia.gitbook.io/whatsapp-food/plugins/google-map-api" %}
+
+Also, you will need the "Maps Static API"&#x20;
