@@ -10,6 +10,7 @@
 
 * Shop: Login / Register clients (via the new module)
 * Shop: Export clients (via the new module)
+* Shop: Export companies
 * Shop: Better client details in order details (via the new module)
 * Shop: Make order of value is 0
 * Shop: Delete client account with remove of personal data
